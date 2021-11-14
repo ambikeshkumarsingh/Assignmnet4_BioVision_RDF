@@ -1,4 +1,3 @@
-<><#title> "Scene-Graph as RDF/N3".
 <#Sun> <#right-of> <#Birds> .
 <#Sun> <#above> <#Mountains> .
 <#Birds> <#above> <#Mountains> .
@@ -9,4 +8,3 @@
 <#House> <#right-of> <#Boat> .
 <#Land> <#right-of> <#River> .
 <#Boat> <#above> <#River> .
-
